@@ -1,8 +1,9 @@
-<!-- 🔥 Animated Banner -->
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+<!-- 🎨 Custom Banner -->
+<p align="center">
+  <img src="https://i.ibb.co.com/x8fJPtF0/Futuristic-AI-digital-banner-design.png" width="65%" height ="70%" />
 </p>
 
+<!-- 🔥 Animated Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Enthusiast;Full+Stack+Developer;CSE+Student;Building+Smart+Apps+🚀" />
 </p>
