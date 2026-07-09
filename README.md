@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 - 🔭 Currently working on **Banglish Emotion Detection (NLP Project)**
-- 🌱 Learning **React, Node.js, Machine Learning & NLP**
+- 🌱 Learning ** mext.js, React, Node.js, Machine Learning & NLP**
 - 💡 Passionate about **AI + Web Integration**
 - 🎯 Goal: Become a **Full-Stack AI Engineer**
 - ⚡ I love building **real-world problem-solving applications**
@@ -30,17 +30,21 @@
 ---
 
 ## 🧠 Skills
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind  
-- **Backend:** Node.js, MongoDB  
-- **AI/ML:** Python, NLP, TensorFlow, PyTorch  
+
+- **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB, Better Auth, REST API
+- **AI/ML:** Python, NLP, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+- **Tools:** Git, GitHub, VS Code, Postman, Vercel, Netlify
 
 ---
 
 ## 🏆 Highlights
-- 🧠 Built **Banglish Emotion Detection System**  
-- 🛒 Developed **DigiTools** — a digital marketplace with dynamic cart system  
-- 📚 Created **English Journal Vocabulary Learning App**  
-- 🚀 Passionate about combining **AI + Web Development**
+
+- 🧠 Built a **Banglish Emotion Detection System** using NLP and Deep Learning
+- 💪 Developed **ApexFit**, a full-stack fitness management platform with Stripe integration and role-based dashboards
+- 🛒 Developed **DigiTools**, a digital marketplace with a dynamic shopping cart
+- 📚 Created an **English Journal Vocabulary Learning App** to improve vocabulary through daily reading
+- 🚀 Passionate about building intelligent applications by combining **AI/ML** and **Full-Stack Web Development**
 
 ---
 
