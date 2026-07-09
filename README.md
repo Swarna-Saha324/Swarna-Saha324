@@ -46,6 +46,12 @@
 
 ## 📌 Featured Projects
 
+### 💪 ApexFit — Fitness Management Platform  
+🔗 Live: https://fitness-client-iota-two.vercel.app  
+💻 Repo: https://github.com/Swarna-Saha324/Fitness_Gym_Client
+
+👉 A full-stack fitness platform where users can book classes, make Stripe payments, join community forums, and manage their fitness journey. Trainers and admins have dedicated role-based dashboards to manage classes, users, and content.
+
 ### 🛒 DigiTools — Digital Marketplace  
 🔗 Live: https://aidighitools.netlify.app/   
 💻 Repo: https://github.com/Swarna-Saha324/PH-Assignment6  
