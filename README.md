@@ -14,11 +14,12 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **Banglish Emotion Detection (NLP Project)**
-- 🌱 Learning ** mext.js, React, Node.js, Machine Learning & NLP**
-- 💡 Passionate about **AI + Web Integration**
-- 🎯 Goal: Become a **Full-Stack AI Engineer**
-- ⚡ I love building **real-world problem-solving applications**
+
+- 🎓 Final-year CSE student with a strong interest in **AI/ML** and **Full-Stack Development**
+- 🔭 Currently working on a **Banglish Emotion Detection** project using NLP and Deep Learning
+- 💡 Passionate about integrating **AI** into modern web applications
+- 🎯 Aspiring **Full-Stack AI Engineer**
+- ⚡ Enjoy building scalable, real-world problem-solving applications
 
 ---
 
